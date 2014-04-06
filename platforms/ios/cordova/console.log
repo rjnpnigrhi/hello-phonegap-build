@@ -1,0 +1,73 @@
+2014-04-05 13:18:36.908 HelloWorld[1121:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 13:18:37.776 HelloWorld[1121:70b] Resetting plugins due to page load.
+2014-04-05 13:18:37.995 HelloWorld[1121:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 17:22:40.796 HelloWorld[642:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 17:22:41.889 HelloWorld[642:70b] Resetting plugins due to page load.
+2014-04-05 17:22:42.182 HelloWorld[642:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 17:22:42.264 HelloWorld[642:70b] ERROR whitelist rejection: url='http://www.google.com/'
+2014-04-05 17:26:20.406 HelloWorld[919:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 17:26:20.524 HelloWorld[919:70b] Resetting plugins due to page load.
+2014-04-05 17:26:20.602 HelloWorld[919:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 17:26:20.619 HelloWorld[919:70b] Resetting plugins due to page load.
+2014-04-05 17:26:21.680 HelloWorld[919:70b] Finished load of: http://www.forcejs.com/
+2014-04-05 17:33:15.434 HelloWorld[1198:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 17:33:15.573 HelloWorld[1198:70b] Resetting plugins due to page load.
+2014-04-05 17:33:15.647 HelloWorld[1198:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 17:33:15.666 HelloWorld[1198:70b] Resetting plugins due to page load.
+2014-04-05 17:33:32.742 HelloWorld[1198:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-05 17:33:32.743 HelloWorld[1198:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-05 17:33:32.744 HelloWorld[1198:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-05 17:33:34.815 HelloWorld[1198:70b] Finished load of: http://topcoder-30041416.herokuapp.com/#/dashboard/activate
+2014-04-05 19:46:35.609 HelloWorld[2446:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 19:46:35.838 HelloWorld[2446:70b] Resetting plugins due to page load.
+2014-04-05 19:46:35.925 HelloWorld[2446:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 19:46:35.959 HelloWorld[2446:70b] ERROR whitelist rejection: url='http://topcoder-30041676.herokuapp.com/'
+2014-04-05 19:47:39.656 HelloWorld[2718:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 19:47:39.782 HelloWorld[2718:70b] Resetting plugins due to page load.
+2014-04-05 19:47:39.878 HelloWorld[2718:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 19:47:39.909 HelloWorld[2718:70b] ERROR whitelist rejection: url='http://topcoder-30041676.herokuapp.com/'
+2014-04-05 19:48:43.000 HelloWorld[2988:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 19:48:43.117 HelloWorld[2988:70b] Resetting plugins due to page load.
+2014-04-05 19:48:43.195 HelloWorld[2988:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 19:48:43.277 HelloWorld[2988:70b] Resetting plugins due to page load.
+2014-04-05 19:48:44.214 HelloWorld[2988:70b] Finished load of: http://topcoder-30041676.herokuapp.com/
+2014-04-05 20:44:01.657 HelloWorld[3458:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:44:01.800 HelloWorld[3458:70b] Resetting plugins due to page load.
+2014-04-05 20:44:01.880 HelloWorld[3458:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:45:24.577 HelloWorld[3736:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:45:24.714 HelloWorld[3736:70b] Resetting plugins due to page load.
+2014-04-05 20:45:24.792 HelloWorld[3736:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:47:09.855 HelloWorld[4017:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:47:09.978 HelloWorld[4017:70b] Resetting plugins due to page load.
+2014-04-05 20:47:10.053 HelloWorld[4017:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:49:05.361 HelloWorld[4297:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:49:05.498 HelloWorld[4297:70b] Resetting plugins due to page load.
+2014-04-05 20:49:05.588 HelloWorld[4297:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:50:34.664 HelloWorld[4578:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:50:34.795 HelloWorld[4578:70b] Resetting plugins due to page load.
+2014-04-05 20:50:34.873 HelloWorld[4578:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:52:25.561 HelloWorld[4856:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 20:52:25.710 HelloWorld[4856:70b] Resetting plugins due to page load.
+2014-04-05 20:52:25.785 HelloWorld[4856:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 20:52:25.870 HelloWorld[4856:70b] THREAD WARNING: ['Notification'] took '54.670898' ms. Plugin should use a background thread.
+2014-04-05 22:33:05.202 HelloWorld[5288:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 22:33:05.342 HelloWorld[5288:70b] Resetting plugins due to page load.
+2014-04-05 22:33:05.417 HelloWorld[5288:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 22:33:05.450 HelloWorld[5288:70b] ERROR whitelist rejection: url='http://topcoder-30041676.herokuapp.com/'
+2014-04-05 22:33:05.496 HelloWorld[5288:70b] THREAD WARNING: ['Notification'] took '42.619873' ms. Plugin should use a background thread.
+2014-04-05 22:35:14.106 HelloWorld[5569:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-05 22:35:14.249 HelloWorld[5569:70b] Resetting plugins due to page load.
+2014-04-05 22:35:14.329 HelloWorld[5569:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-05 22:35:14.363 HelloWorld[5569:70b] Resetting plugins due to page load.
+2014-04-05 22:35:22.414 HelloWorld[5569:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-05 22:35:22.415 HelloWorld[5569:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-05 22:35:22.415 HelloWorld[5569:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&callback=setGoogleMapsToReady'
+2014-04-06 14:45:50.703 HelloWorld[952:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-06 14:45:51.614 HelloWorld[952:70b] Resetting plugins due to page load.
+2014-04-06 14:45:51.962 HelloWorld[952:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-06 14:50:16.546 HelloWorld[1241:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-06 14:50:16.764 HelloWorld[1241:70b] Resetting plugins due to page load.
+2014-04-06 14:50:16.874 HelloWorld[1241:70b] Finished load of: file:///Users/raja/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/1AD11DE5-00C7-4AF8-BB91-BED6132CA44C/HelloWorld.app/www/index.html
+2014-04-06 14:50:17.542 HelloWorld[1241:70b] THREAD WARNING: ['Notification'] took '599.904053' ms. Plugin should use a background thread.
+2014-04-06 14:50:19.360 HelloWorld[1241:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-06 14:50:19.370 HelloWorld[1241:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
